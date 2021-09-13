@@ -129,6 +129,16 @@ button {
   }
 }
 
+.stage3{
+  list-style: none;
+  display: flex;
+}
+
+.stage3 li{
+  width: 40%;
+  margin: 2.5%;
+}
+
 .row {
   display: -webkit-box;
   display: -ms-flexbox;
